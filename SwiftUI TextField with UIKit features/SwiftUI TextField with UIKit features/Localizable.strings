@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  SwiftUI TextField with UIKit features
+
+  Created by Gursimran Singh Gill on 2024-02-29.
+  
+*/
+
+"placeholder_first_name" = "FIRST NAME";
+"placeholder_last_name" = "LAST NAME";
+"placeholder_email" = "EMAIL";
+"placeholder_password" = "PASSWORD";
+
+"signin" = "Sign in";
+"register" = "Register";
+
+"required_field" = "This is a mandatory field";
+
+"error_first_name_length" = "First name should have at least 4 characters.";
+"error_last_name_length" = "Last name should have at least 3 characters.";
+"error_email" = "Invalid email.";
+"error_password" = "Password should have at least 6 characters.";
