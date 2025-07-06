@@ -1,6 +1,6 @@
 ![image](https://github.com/gillgursimran/Form-Validation-with-SwiftUI-and-Combine/assets/161746621/de62d323-f5fe-488a-9695-7a0c07f22697)
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 08 29 11](https://github.com/user-attachments/assets/af1ecefd-7c91-4bbd-bc61-24ee0d7dc947)
+![Simulator Screenshot - iPhone 16 Pro - 2025-07-06 at 08 29 11](https://github.com/user-attachments/assets/3dcebd11-ce2e-4d83-8f51-c0e2147b27de)
 
 
 This provides a reasonably flexible and useful SwiftUI wrapper around UITextField that provides more control over errors and invalid text.
